@@ -33,6 +33,7 @@ class HelpDeskEmail extends Mailable
     {
         return $this->view('emails.helpdesk_email')
             ->subject('Helpdesk Request')
-            ->to('help@servicedeskmoh.on.spiceworks.com');
+            //@Start hackathon edit
+            ->to('help@hackathontest.on.spiceworks.com');
     }
 }
