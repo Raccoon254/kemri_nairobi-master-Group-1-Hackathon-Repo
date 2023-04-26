@@ -29,7 +29,13 @@ Once the module is set up and configured, Open your localhost server:<br>
 4.In the Help Desk dropdown menu, click the "Complaints/Reports" link<br>
 5.Fill in the form with the necessary information and submit it<br>
 6.Check your SPICEWORKS dashboard to confirm the notification was sent<br>
-7.Support and Feedback<br><br><br>
+7.Support and Feedback<br>
+
+## Future Development
+We are currently working on a module that can read emails in real-time and send a reply to the user when their ticket is closed. This feature will further enhance the user experience and provide a more streamlined communication process.
+<br>
+<br>
+<br>
 For any issues, questions, or suggestions, please feel free to contact our support team.
 
 We appreciate your feedback and will work diligently to ensure the continued improvement and success of this module.
